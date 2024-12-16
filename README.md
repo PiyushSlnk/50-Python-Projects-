@@ -14,3 +14,5 @@ This repo contains 50 Python projects, each designed to explore different aspect
 To get started, simply clone this repository to your local machine:
 
 ```bash
+    git clone https://github.com/PiyushSlnk/50-Python-Projects.git
+    cd 50-Python-Projects
